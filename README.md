@@ -1,4 +1,4 @@
-# Qual-o-seu-WhatsApp-
+# Qual-o-seu-WhatsApp
 
 Vamos adaptar o código para Ruby, mantendo a mesma lógica de validação de números de WhatsApp brasileiros com expressões regulares.
 
